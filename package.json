@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      "jpush-react-native@^1.1.5",
+      "/Users/jitaekim/Development/react-native/hsMobile"
+    ]
+  ],
+  "_from": "jpush-react-native@>=1.1.5 <2.0.0",
+  "_id": "jpush-react-native@1.1.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/jpush-react-native",
+  "_nodeVersion": "6.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/jpush-react-native-1.1.5.tgz_1474538110286_0.01746017811819911"
+  },
+  "_npmUser": {
+    "email": "380108184@qq.com",
+    "name": "huminios"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "jpush-react-native",
+    "raw": "jpush-react-native@^1.1.5",
+    "rawSpec": "^1.1.5",
+    "scope": null,
+    "spec": ">=1.1.5 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jpush-react-native/-/jpush-react-native-1.1.5.tgz",
+  "_shasum": "92f75a7f321233c75ffa55b79e8661edaf6abf85",
+  "_shrinkwrap": null,
+  "_spec": "jpush-react-native@^1.1.5",
+  "_where": "/Users/jitaekim/Development/react-native/hsMobile",
+  "author": {
+    "name": "KenChoi, huminiOS"
+  },
+  "bugs": {
+    "url": "https://github.com/jpush/jpush-react-plugin/issues"
+  },
+  "dependencies": {},
+  "description": "a jpush plugin for react native application",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "92f75a7f321233c75ffa55b79e8661edaf6abf85",
+    "tarball": "https://registry.npmjs.org/jpush-react-native/-/jpush-react-native-1.1.5.tgz"
+  },
+  "gitHead": "f14c92c77c5f4efe699072405e472b86e3aa7874",
+  "homepage": "https://github.com/jpush/jpush-react-plugin#readme",
+  "keywords": [
+    "react",
+    "native",
+    "jpush"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "support@jpush.cn",
+      "name": "jpush"
+    },
+    {
+      "email": "caiyg@jpush.cn",
+      "name": "kenchoi"
+    }
+  ],
+  "name": "jpush-react-native",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpush/jpush-react-plugin.git"
+  },
+  "scripts": {
+    "postinstall": "node postInstall.js"
+  },
+  "version": "1.1.5"
+}
